@@ -22,18 +22,7 @@
 
 **3)**
 
-G = ({S, A}, {a,b}, P, S)
-
-P = {
-
-  S -> Ab
-  
-  A -> aAa | aAb | bAa | bAb | a
-  
-}
-**2)**
-
-  G = ({S}, {a,b}, P, S)
+  G = ({S, A}, {a,b}, P, S)
 
   P = {
 
